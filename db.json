@@ -1,0 +1,40 @@
+{
+    "students": [
+      { "id": 1, "name": "Ahmed Mohamed", "email": "ahmed.m@university.edu.eg", "enrollmentDate": "2023-09-15" },
+      { "id": 2, "name": "Fatima Al-Zahra", "email": "fatima.z@university.edu.sa", "enrollmentDate": "2023-09-16" },
+      { "id": 3, "name": "Omar Khaled", "email": "omar.k@university.ae", "enrollmentDate": "2023-09-20" },
+      { "id": 4, "name": "Layla Hassan", "email": "layla.h@university.edu.eg", "enrollmentDate": "2023-10-01" },
+      { "id": 5, "name": "Youssef Ibrahim", "email": "youssef.i@university.edu.jo", "enrollmentDate": "2023-10-05" },
+      { "id": 6, "name": "Nour El-Din", "email": "nour.eldin@university.com", "enrollmentDate": "2023-10-10" },
+      { "id": 7, "name": "Mariam Saeed", "email": "mariam.s@university.edu.kw", "enrollmentDate": "2023-10-12" },
+      { "id": 8, "name": "Abdullah Al-Mansour", "email": "abdullah.m@university.edu.sa", "enrollmentDate": "2023-10-15" },
+      { "id": 9, "name": "Hana Yasser", "email": "hana.y@university.edu.eg", "enrollmentDate": "2023-10-18" },
+      { "id": 10, "name": "Tarek Mahmoud", "email": "tarek.m@university.edu.lb", "enrollmentDate": "2023-10-20" }
+    ],
+    "courses": [
+      { "id": 1, "title": "Introduction to Computer Science", "code": "CS101", "credits": 3 },
+      { "id": 2, "title": "Database Management Systems", "code": "CS204", "credits": 3 },
+      { "id": 3, "title": "Data Structures & Algorithms", "code": "CS201", "credits": 4 },
+      { "id": 4, "title": "Web Development (Frontend)", "code": "SE301", "credits": 3 },
+      { "id": 5, "title": "Artificial Intelligence", "code": "AI401", "credits": 4 },
+      { "id": 6, "title": "Software Engineering", "code": "SE305", "credits": 3 },
+      { "id": 7, "title": "Cybersecurity Fundamentals", "code": "SEC202", "credits": 3 },
+      { "id": 8, "title": "Mobile App Development", "code": "SE308", "credits": 3 }
+    ],
+    "instructors": [
+      { "id": 1, "name": "Dr. Hassan Ali", "department": "Computer Science" },
+      { "id": 2, "name": "Dr. Amira Salah", "department": "Information Systems" },
+      { "id": 3, "name": "Prof. Ibrahim El-Sayed", "department": "Software Engineering" },
+      { "id": 4, "name": "Dr. Rania Fawzy", "department": "Artificial Intelligence" },
+      { "id": 5, "name": "Dr. Kareem Nabil", "department": "Cybersecurity" },
+      { "id": 6, "name": "Dr. Salma Mostafa", "department": "Computer Science" }
+    ],
+    "employees": [
+      { "id": 1, "name": "Mahmoud Gamal", "position": "HR Manager", "salary": 15000 },
+      { "id": 2, "name": "Sara Abdelrahman", "position": "Student Affairs Officer", "salary": 8500 },
+      { "id": 3, "name": "Ali Hussein", "position": "IT Specialist", "salary": 12000 },
+      { "id": 4, "name": "Dina Kamel", "position": "Accountant", "salary": 9500 },
+      { "id": 5, "name": "Khaled Zaki", "position": "Registrar", "salary": 11000 },
+      { "id": 6, "name": "Mona Farouk", "position": "Administrative Assistant", "salary": 7000 }
+    ]
+  }
